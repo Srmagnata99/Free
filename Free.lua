@@ -14,10 +14,10 @@ local OrionLib = {
 	Flags = {},
 	Themes = {
 		Default = {
-			Main = Color3.fromRGB(150, 0, 153),   -- Roxo mais escuro
-Second = Color3.fromRGB(130, 80, 170),  -- Roxo médio
-Stroke = Color3.fromRGB(160, 110, 190), -- Roxo mais claro
-Divider = Color3.fromRGB(90, 90, 90),   -- Cinza médio
+Main = Color3.fromRGB(12, 12, 12),     -- Vanta Black
+Second = Color3.fromRGB(50, 50, 50),    -- Cinza escuro
+Stroke = Color3.fromRGB(90, 90, 90),    -- Cinza levemente claro
+Divider = Color3.fromRGB(60, 60, 60),   -- Cinza médio
 Text = Color3.fromRGB(240, 240, 240),
 TextDark = Color3.fromRGB(150, 150, 150)
 		}
